@@ -61,7 +61,7 @@ Author: [Petr Kašpar](https://github.com/xkaspa40)
 Contributors: [Vladimír Korenčik](https://github.com/froztt), [Jiři Hyněk](https://github.com/jirka)
 
 ## License
-[MIT](https://github.com/geovisto/geovisto-layer-choropleth/blob/master/LICENSE)
+[MIT](https://github.com/geovisto/geovisto-layer-heat/blob/master/LICENSE)
 
 ### Keywords
 [gis](https://www.npmjs.com/search?q=keywords:gis) [map](https://www.npmjs.com/search?q=keywords:map) [geovisto](https://www.npmjs.com/search?q=keywords:geovisto) [leaflet](https://www.npmjs.com/search?q=keywords:leaflet) [spatial-data](https://www.npmjs.com/search?q=keywords:spatial-data) [visualization](https://www.npmjs.com/search?q=keywords:visualization) [heat](https://www.npmjs.com/search?q=keywords:heat) [heatmap](https://www.npmjs.com/search?q=keywords:heatmap)
