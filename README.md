@@ -3,9 +3,10 @@ Tool which provides the heatmap layer functionality for [Geovisto core library](
 
 This repository is a snapshot of Geoviosto `tools/layers/heat` derived from the development repository: [geovisto/geovisto-map](https://github.com/geovisto/geovisto-map).
 
+## Usage
 ![Geovisto HeatLayer Tool](https://user-images.githubusercontent.com/44326793/211210483-2bf57921-1678-4a24-96f6-bc016ad33c3b.png)
 
-## Usage
+
 ```js 
 import { GeovistoHeatLayerTool } from 'geovisto-layer-heat';
 import 'geovisto-layer-heat/dist/index.css';
