@@ -39,8 +39,8 @@ map.draw(Geovisto.getMapConfigManagerFactory().default({
       "layerName": "Heat layer ",
       // mapping of data domains to data dimensions
       "data": {
-        "latitude": "-37.8210922667", // latitude in degrees
-        "longitude": "175.2209316333", // longitude in degrees
+        "latitude": "lat", // latitude in degrees
+        "longitude": "long", // longitude in degrees
         "intensity": "cases", // intensity dimension
         "radius": 10, // radius of each "point" of the heatmap
         "gradient": "Default", // color blindness gradient ["Default", "Protanopia/Deuteranopia A", "Protanopia/Deuteranopia B", "Tritanopia", "Monochromatic"]
